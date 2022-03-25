@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thyagoasc/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagoasc&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoasc&layout=compact&langs_count=7&theme=blue-green"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoasc&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" height="30" width="40" src='https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg'/>
