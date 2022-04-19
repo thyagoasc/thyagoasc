@@ -1,4 +1,4 @@
-## Olá! Eu sou Thyago Correia, futuro desenvolvedor FullStack.
+## Olá! Eu sou Thyago Correia, futuro desenvolvedor Web.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thyagoasc" target="_blank">
