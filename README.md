@@ -1,4 +1,5 @@
 # 💫 Sobre mim:
+### Olá, me chamo Thyago Alves da Silva Correia!
 ### Atualmente trabalho como Vendedor;
 ### Amo tecnologia e tudo que podemos solucionar através dela;
 ### Gosto de trabalhar em equipe, de resolver problemas, e liderar projetos e pessoas.
