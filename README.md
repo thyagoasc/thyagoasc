@@ -1,11 +1,14 @@
-# 💫 Sobre mim:
-### Olá, me chamo Thyago Alves da Silva Correia!
-### Atualmente trabalho como Vendedor;
-### Amo tecnologia e tudo que podemos solucionar através dela;
-### Gosto de trabalhar em equipe, de resolver problemas, e liderar projetos e pessoas.
+<h1 align="center">Olá 👋, Eu sou Thyago Correia</h1>
+<h3 align="center">Apaixonado por tecnologia e pelo futuro!</h3>
 
-## 🌐 Redes Sociais
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thyagoasc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thyagoasc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thyagoasc) 
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=thyagoasc&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoasc" /> </p>
 
-# 💻 Tecnologias que estou estudando:
-### EM CONSTRUÇÃO...
+- 🔭 Estou trabalhando no projeto [De olho na Meta](https: //github.com/thyagoasc/de_olho_na_meta)
+
+- 🌱 Estou estudando no momento **Desenvolvimento Mobile, Dart, Flutter**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagoasc&show_icons=true&locale=en&layout=compact" alt="thyagoasc" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thyagoasc&show_icons=true&locale=en" alt="thyagoasc" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thyagoasc&" alt="thyagoasc" /></p>
