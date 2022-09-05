@@ -3,9 +3,9 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=thyagoasc&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoasc" /> </p>
 
-- 🔭 Estou trabalhando no projeto [De olho na Meta](https: //github.com/thyagoasc/de_olho_na_meta)
+- 🔭 Estou trabalhando no projeto [Sistema Apolo](https: //github.com/thyagoasc/apolo)
 
-- 🌱 Estou estudando no momento **Desenvolvimento Mobile, Dart, Flutter**
+- 🌱 Estou estudando no momento **Análise e Desenvolvimento de Sistemas**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thyagoasc&show_icons=true&locale=en&layout=compact" alt="thyagoasc" /> </p>
 
