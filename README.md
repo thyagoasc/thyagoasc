@@ -3,7 +3,7 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=thyagoasc&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoasc" /> </p>
 
-- 🔭 Estou trabalhando no projeto [Alura Cases](https://github.com/thyagoasc/curso-nextjs-alura)
+- 🔭 Estou trabalhando no projeto [Organo](https://github.com/thyagoasc/organo)
 
 - 🌱 Estou estudando no momento **Análise e Desenvolvimento de Sistemas**
 
