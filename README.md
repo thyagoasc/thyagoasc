@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Thyago Correia
-- 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas 
-- 👩🏻‍💻 Buscando minha primeira oportunidade como Desenvolvedor Front-end
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas 
+- 💻 Buscando minha primeira oportunidade como Desenvolvedor Front-end
 
 <div align="center">
   <a href="https://github.com/thyagoasc">
